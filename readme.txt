@@ -5,10 +5,10 @@ Jocker's Quality of life improvements mod for the game
 
 This mod adds two requested Quality of life chages:
 
-[list]
-The Flare building will not require workers
-OrganicFertilizer research is not locked behind Wheat (*)
-[/list]
+
+  + The Flare building will not require workers
+  + OrganicFertilizer research is not locked behind Wheat (*)
+
 
 * currently it's just unlocked because the mod removes it's parent,
 this is due to me not really knowing where is a better place to place it
