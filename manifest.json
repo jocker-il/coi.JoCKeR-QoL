@@ -1,0 +1,16 @@
+﻿{
+	"id": "Jocker-QoL",
+	"version": "0.0.1",
+	"display_name": "Jocker-QoL (experimantal for now)",
+	"description_short": "Some QoL changes",
+	"description_long": "Changes:\n  * The Flare building will not require workers\n  * Fertilizer (Organic) is not locked behind Wheat anymore ",
+	"authors": [ "JoCKeL-IL" ],
+	"primary_dlls": [ "Jocker-QoL.dll" ],
+	"min_game_version": "0.8.2c",
+	"max_verified_game_version": "0.8.2c",
+	"mod_dependencies": [],
+	"optional_mod_dependencies": [],
+	"incompatible_mods": [],
+	"non_locking_dll_load": true,
+	"can_add_to_saved_game": true
+}
