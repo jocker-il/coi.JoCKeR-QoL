@@ -2,7 +2,12 @@ How to install this mod
 =======================
 
 1. Locate your COI data folder. By default it is at:
+
+[windows]
    %APPDATA%/Captain of Industry
+
+[Linux]
+   <location of Steam Library>/steamapps/compatdata/1594320/pfx/drive_c/users/steamuser/Application Data/Captain of Industry/
 
 2. Open or create the "Mods" directory inside it.
 
