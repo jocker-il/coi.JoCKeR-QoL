@@ -1,25 +1,13 @@
-How to install this mod
-=======================
+This mod add two requested Quality of life chages:
 
-1. Locate your COI data folder. By default it is at:
+[list]
+The Flare building will not require workers
+OrganicFertilizer research is not locked behind Wheat (*)
+[/list]
 
-[windows]
-   %APPDATA%/Captain of Industry
-
-[Linux]
-   <location of Steam Library>/steamapps/compatdata/1594320/pfx/drive_c/users/steamuser/Application Data/Captain of Industry/
-
-2. Open or create the "Mods" directory inside it.
-
-3. Extract the contents of this zip into the "Mods" directory.
-   You should end up with a folder structure like:
-   Mods/Jocker-QoL/manifest.json
-   Mods/Jocker-QoL/Jocker-QoL.dll
-   ...
-
-   The folder name must match the mod's ID (specified in manifest.json).
-
-4. Launch the game and select the mod when creating a new game, or add it to an existing save when using the "load" option (not the "continue" button).
-
-5. In case of any errors, examine logs in:
-   %APPDATA%/Captain of Industry/Logs
+* currently it's just unlocked because the mod removes it's parent,
+this is due to me not really knowing where is a better place to place it
+as it's got a recipe for animal feed into compost that is only available
+when you unlock wheat and chicken farming. 
+once I figure out how to move the recipes and re-arrange the research nodes,
+I will be able to correct this the right way,
