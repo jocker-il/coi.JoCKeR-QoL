@@ -1,4 +1,9 @@
-This mod add two requested Quality of life chages:
+Jocker's Quality of life improvements mod for the game
+
+              Captain of Industry
+
+
+This mod adds two requested Quality of life chages:
 
 [list]
 The Flare building will not require workers
@@ -11,3 +16,9 @@ as it's got a recipe for animal feed into compost that is only available
 when you unlock wheat and chicken farming. 
 once I figure out how to move the recipes and re-arrange the research nodes,
 I will be able to correct this the right way,
+
+** I'm not a professional coder/modder, so I got help to create this,
+    If you have C# coding experience and want to help make the needed
+    changes, I'm happy to get it - contact me on the game's discord  **
+
+** the game's discord page is here: https://discord.gg/sTU7NpgQfv **
